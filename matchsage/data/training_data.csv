@@ -1,0 +1,6 @@
+﻿user_id,source_id,status
+0,1,accept
+1,0,reject
+0,2,reject
+1,2,accept
+2,1,reject
